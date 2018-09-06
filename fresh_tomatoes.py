@@ -1,3 +1,5 @@
+<!-- This file provided by Udacity.com -->
+
 import media
 import webbrowser
 import os
